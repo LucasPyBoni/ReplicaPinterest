@@ -4,7 +4,7 @@ Este projeto foi baseado no pinterest, contendo anexo de fotos pra cada usuário
 O usuário pode criar sua conta e caso já tenha, o programa vai fazer a verificação dentro da base de dados pra realizar o login. 
 
 ### Link do site
-[Replica Pinterest](https://replicapinterest-74d74d352cb8.herokuapp.com/)
+[Replica Pinterest](https://replicapinterest-bail.onrender.com/)
 
 ### Principais Bibliotecas:
 
