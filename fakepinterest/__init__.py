@@ -14,4 +14,9 @@ bcrypt = Bcrypt(app)
 login_manager = LoginManager(app)
 login_manager.login_view = "homepage"
 
+from fakepinterest import models
+
+with app.app_context():
+    database.create_all()
+
 from fakepinterest import routes
